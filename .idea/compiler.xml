@@ -10,6 +10,11 @@
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="8" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="8" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Empty.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Guard_On_The_Gate.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Playing_with_numbers.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Yet_another_list.main" target="8" />
       <module name="Cinema_Room_Manager.util.main" target="8" />
     </bytecodeTargetLevel>
   </component>
