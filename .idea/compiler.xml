@@ -13,6 +13,9 @@
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Individual_taxes.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Print_all_elements.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Corners.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Indexing_rules.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Theory.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Empty.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Guard_On_The_Gate.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Playing_with_numbers.main" target="8" />
