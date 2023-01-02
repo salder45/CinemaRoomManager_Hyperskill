@@ -10,12 +10,25 @@
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="8" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="8" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Statements.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-What's_wrong.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Individual_taxes.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Print_all_elements.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-IndexOutOfBoundsException.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-Theory.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Corners.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Indexing_rules.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-A_winning_car.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_arithmetic_exception.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-The_purpose_of_exceptions.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Too_big_for_us.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Cause_an_exception.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Theory.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Empty.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Guard_On_The_Gate.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Playing_with_numbers.main" target="8" />
