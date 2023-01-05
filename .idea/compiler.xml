@@ -14,6 +14,11 @@
       <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Statements.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Theory.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-Errors_in_programs-What's_wrong.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Distance.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Evaluate_an_expression.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Liquid_pressure.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-What_is_the_result.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Individual_taxes.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Print_all_elements.main" target="8" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Theory.main" target="8" />
